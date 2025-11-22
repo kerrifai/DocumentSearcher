@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+altair
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+chromadb
+pypdf
+openai
+tiktoken
